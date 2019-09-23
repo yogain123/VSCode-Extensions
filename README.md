@@ -3,7 +3,7 @@ Usefull for JavaScript Developers
 
 ![Banner](static/banner.png)
 
-Note : List is in Random Order
+Note : List is in Alphabetical order
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/yogain123/A-to-Z-List-of-Useful-JS-VS-Code-Extensions/issues)
 

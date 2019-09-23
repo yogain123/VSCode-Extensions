@@ -1,13 +1,8 @@
 {
-	"name": "A-to-Z-List-of-Useful-Node.js-Modules",
+	"name": "A-to-Z-List-of-Useful-JS-VSCode-Extensions",
 	"version": "1.0.0",
-	"description": "Collection of most awesome node modules that will extend the capability of your node.js application.",
 	"main": "index.js",
 	"scripts": {},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/aravindnc/A-to-Z-List-of-Useful-Node.js-Modules.git"
-	},
 	"keywords": [
 		"nodejs", 
 		"nodejs-modules",
@@ -21,12 +16,8 @@
 		"modules",
 		"collection"
 	],
-	"author": "Aravind NC <aravind_n_c@yahoo.co.in> (http://imwebgangster.com)",
+	"author": "Yogendra Saxena",
 	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/aravindnc/A-to-Z-List-of-Useful-Node.js-Modules/issues"
-	},
-	"homepage": "https://github.com/aravindnc/A-to-Z-List-of-Useful-Node.js-Modules#readme",
 	"dependencies": {},
 	"devDependencies": {},
 	"engines": {}

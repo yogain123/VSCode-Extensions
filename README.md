@@ -6,14 +6,13 @@ Usefull for JavaScript Developers
 Note : List is in Random Order
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/aravindnc/A-to-Z-List-of-Useful-Node.js-Modules/issues)
-[![HitCount](http://hits.dwyl.io/aravindnc/A-to-Z-List-of-Useful-Node.js-Modules.svg)](http://hits.dwyl.io/aravindnc/A-to-Z-List-of-Useful-Node.js-Modules)
 
 * Use <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>command</kbd> + <kbd>F</kbd> to search for a module.
 * Contributions are welcome.
 
 ## Extensions for development
 
-List of packages needed for development.
+List of Extensions needed for development.
 
 * [`Angular 8 Snippets`](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode) - Visual Studio Code TypeScript and Html snippets and code examples for Angular 2,4,5,6, 7 & 8 Beta.
 All code snippets are based on and follow the Angular style guide https://angular.io/docs/ts/latest/guide/style-guide.html

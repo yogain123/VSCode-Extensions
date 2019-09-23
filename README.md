@@ -20,7 +20,6 @@ All code snippets are based on and follow the Angular style guide https://angula
 * [`Angular Files`](https://marketplace.visualstudio.com/items?itemName=alexiv.vscode-angular2-files) - This extension allows quickly scaffold angular 2 file templates in VS Code project.
 
 * [`Angular Language Service`](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - Editor services for Angular templates.
-* [`Loopback`](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
 
 * [`Auto Close Tag`](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode) - Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text does.
 

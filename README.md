@@ -5,7 +5,7 @@ Usefull for JavaScript Developers
 
 Note : List is in Random Order
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/aravindnc/A-to-Z-List-of-Useful-Node.js-Modules/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/yogain123/A-to-Z-List-of-Useful-JS-VS-Code-Extensions/issues)
 
 * Use <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>command</kbd> + <kbd>F</kbd> to search for a module.
 * Contributions are welcome.

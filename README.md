@@ -150,3 +150,6 @@ All code snippets are based on and follow the Angular style guide https://angula
 * [`VSCode-Faker`](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker) - Generate fake data for name, address, lorem ipsum, commerce and much more
 
 * [`vscode-styled-components`](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components) - Syntax highlighting and IntelliSense for styled-components.
+
+
+Medium Link : https://medium.com/@yogendrasaxena56/a-to-z-list-of-useful-javascript-vs-code-extensions-eceb4335c493

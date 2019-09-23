@@ -53,7 +53,7 @@ All code snippets are based on and follow the Angular style guide https://angula
 
 * [`EditorConfig for VS Code`](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code
 
-* [`ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax
+* [`ES7 React/Redux/GraphQL/React-Native snippets`](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax
 
 * [`ESLint`](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code.
 

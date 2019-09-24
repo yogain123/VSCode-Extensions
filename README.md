@@ -152,3 +152,32 @@ All code snippets are based on and follow the Angular style guide https://angula
 * [`VSCode-Faker`](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker) - Generate fake data for name, address, lorem ipsum, commerce and much more
 
 * [`vscode-styled-components`](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components) - Syntax highlighting and IntelliSense for styled-components.
+
+
+All above Extensions I have installed and use for my developement , but my Personal Favorites are:
+-----
+* Leet Code
+
+* Setting Sync
+
+* VScode-styled-components
+
+* Tabnine
+
+* Quokka.js
+
+* Liver Server
+
+* Docker
+
+* Git lens
+
+* Git History
+
+* Debugger for Chrome
+
+* Code Runner
+
+* Bookmark
+
+* Beautify
